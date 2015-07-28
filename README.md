@@ -1,5 +1,5 @@
-# my-anime-list
-A comprehensive list of anime I've either watched or currently watching.
+# My Anime List
+A comprehensive list of anime I&rsquo;ve either watched or am currently watching.
 
 ## TV Shows
 * D.Gray-man (51/103)
