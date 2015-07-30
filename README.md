@@ -60,7 +60,7 @@ A comprehensive list of anime I&rsquo;ve either watched or am currently watching
 * Another (12/12)
 * Black Lagoon (5/24)
 * Bleach (27/366)
-* Deadman Wonderland (7/13)
+* Deadman Wonderland (13/13)
 * Rosario + Vampire (4/26)
 * Hyakka Ryouran Samurai Girls (4/12)
 
