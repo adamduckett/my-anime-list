@@ -3,7 +3,7 @@ A comprehensive list of anime I&rsquo;ve either watched or am currently watching
 
 ## TV Shows
 * D.Gray-man (51/103)
-* Darker than Black: Kuro no Keiyakusha (5/25)
+* Darker than Black: Kuro no Keiyakusha (11/25)
 * Psycho-Pass (22/22)
 * Berserk (12/12)
 * Chaos;Head (12/12)
