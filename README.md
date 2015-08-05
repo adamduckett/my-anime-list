@@ -3,7 +3,7 @@ A comprehensive list of anime I&rsquo;ve either watched or am currently watching
 
 ## TV Shows
 * D.Gray-man (51/103)
-* Darker than Black: Kuro no Keiyakusha (12/25)
+* Darker than Black: Kuro no Keiyakusha (16/25)
 * Psycho-Pass (22/22)
 * Berserk (12/12)
 * Chaos;Head (12/12)
@@ -69,9 +69,9 @@ A comprehensive list of anime I&rsquo;ve either watched or am currently watching
 * Armitage III
 * Armitage III: Dual-Matrix
 * Trigun: Badlands Rumble
-* Howl's Moving Castle
+* Howl&rsquo;s Moving Castle
 * My Neighbour Totoro
-* Kiki's Delivery Service
+* Kiki&rsquo;s Delivery Service
 * Princess Mononoke
 * Spirited Away
 * Ponyo
