@@ -3,7 +3,7 @@ A comprehensive list of anime I&rsquo;ve either watched or am currently watching
 
 ## TV Shows
 * D.Gray-man (51/103)
-* Darker than Black: Kuro no Keiyakusha (16/25)
+* Darker than Black: Kuro no Keiyakusha (18/25)
 * Psycho-Pass (22/22)
 * Berserk (12/12)
 * Chaos;Head (12/12)
@@ -39,12 +39,12 @@ A comprehensive list of anime I&rsquo;ve either watched or am currently watching
 * Fate/stay night (24/24)
 * Fate/Zero (25/25)
 * Gintama (7/201)
-* Parasyte -the Maxim (17/24)
+* Parasyte -the Maxim (24/24)
 * Is It Wrong to Try to Pick Up Girls in a Dungeon? (13/13)
 * Nagi no Asukara (Nagi-Asu: A Lull in the Sea) (26/26)
 * Punch Line (1/12)
 * Shirobako (2/24)
-* Witch Craft Works (5/12)
+* Witch Craft Works (12/12)
 * Black Bullet (13/13)
 * Akame ga Kill! (24/24)
 * No Game No Life (12/12)
